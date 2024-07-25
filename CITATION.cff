@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Orekhov
+    given-names: Boris
+    orcid: https://orcid.org/0000-0002-9099-0436
+title: "TexTransform"
+version: 1.0.1
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12813768
+date-released: 2024-07-25
